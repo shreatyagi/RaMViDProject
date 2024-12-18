@@ -1,0 +1,10 @@
+#Ignore all folders named 'videofin'
+
+videofin/
+
+#Ignore all folders named 'checkpoints'
+checkpoints/
+
+#Ignore outputs : in base dir 
+
+outputs/
